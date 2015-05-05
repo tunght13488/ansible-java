@@ -1,4 +1,4 @@
 ---
 tunght13488_java_packages:
-  - unzip
-  - openjdk-8-jdk
+  - oracle-java8-installer
+  - oracle-java8-set-default
