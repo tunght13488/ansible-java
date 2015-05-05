@@ -1,4 +1,4 @@
-Java
+java
 ====
 
 Java
@@ -16,7 +16,7 @@ A description of the settable variables for this role should go here, including 
 Dependencies
 ------------
 
-- tunght13488.buildpack-deps
+- `tunght13488.buildpack-deps-scm`
 
 Example Playbook
 ----------------
